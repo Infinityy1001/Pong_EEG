@@ -1,13 +1,3 @@
-#################################################################
-#                       B L I N K   P O N G                     #
-#################################################################
-
-# Very simple Pong game, assembled from bits and pieces by Thomas Vikström
-# The objective is to try to increase the score by hitting the ball
-# Uses Muse EEG-device and LSL for streaming EEG data
-
-# *******************  IMPORTING MODULES ********************
-
 from tkinter import *
 import tkinter as tk
 import time
